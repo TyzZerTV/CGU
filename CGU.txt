@@ -1,0 +1,137 @@
+# Conditions Générales d'Utilisation — R6 HUB BOT
+
+**Dernière mise à jour : 31 octobre 2026**
+
+## Article 1 — Présentation
+
+R6 HUB BOT est un bot Discord communautaire destiné aux joueurs de Rainbow Six Siege et aux utilisateurs de la plateforme R6 HUB.
+
+Il propose des fonctionnalités de gestion communautaire, de modération, de consultation des profils, de gestion des équipes et d'organisation de tournois.
+
+R6 HUB BOT est un projet communautaire indépendant, non affilié à Discord, Ubisoft ou aux équipes officielles de Rainbow Six Siege.
+
+## Article 2 — Acceptation des conditions
+
+L'utilisation des commandes et fonctionnalités de R6 HUB BOT implique l'acceptation des présentes Conditions Générales d'Utilisation.
+
+Les utilisateurs qui ne souhaitent pas accepter ces conditions sont invités à ne pas utiliser les fonctionnalités du bot.
+
+L'utilisation du bot implique également le respect des Conditions d'utilisation et des Règles de la communauté de Discord.
+
+## Article 3 — Fonctionnalités du bot
+
+R6 HUB BOT propose notamment :
+
+- La consultation des profils des joueurs inscrits sur R6 HUB.
+- La recherche et la consultation des équipes.
+- L'affichage des tournois disponibles.
+- La publication automatique d'annonces de tournois.
+- Les demandes de création d'équipes via des formulaires Discord.
+- La validation ou le refus des demandes par le staff.
+- La création de salons Discord privés pour les équipes acceptées.
+- Des commandes de modération telles que `/ban`, `/unban`, `/mute` et `/unmute`.
+
+Certaines fonctionnalités peuvent être réservées aux administrateurs ou aux membres autorisés du staff.
+
+Les fonctionnalités du bot peuvent évoluer au fil des mises à jour.
+
+## Article 4 — Règles d'utilisation
+
+Les utilisateurs s'engagent à :
+
+1. Respecter les autres membres de la communauté.
+2. Ne pas utiliser le bot à des fins de harcèlement, de discrimination ou de menace.
+3. Ne pas exploiter les fonctionnalités du bot pour perturber le serveur Discord.
+4. Ne pas envoyer de demandes répétitives, frauduleuses ou abusives.
+5. Fournir des informations appropriées lors de la création d'une équipe.
+6. Ne pas tenter de contourner les permissions ou les restrictions du bot.
+7. Respecter les décisions de modération prises conformément au règlement du serveur.
+
+Toute utilisation abusive peut entraîner une restriction d'accès aux fonctionnalités du bot.
+
+## Article 5 — Création et gestion des équipes
+
+Les utilisateurs peuvent soumettre une demande de création d'équipe via R6 HUB BOT.
+
+Chaque demande peut être examinée par les membres autorisés du staff.
+
+Le staff se réserve le droit de refuser une demande notamment lorsque :
+
+- Le nom ou le tag de l'équipe est inapproprié.
+- Les informations communiquées sont manifestement trompeuses.
+- La demande est répétitive ou abusive.
+- L'équipe ne respecte pas les règles de la communauté.
+
+L'acceptation d'une demande peut entraîner la création d'un salon Discord privé dédié à l'équipe.
+
+La création d'un salon Discord ne garantit pas automatiquement l'inscription de l'équipe sur le site R6 HUB.
+
+## Article 6 — Modération et sanctions
+
+R6 HUB BOT met à disposition des membres autorisés du staff des outils de modération.
+
+Les sanctions peuvent notamment comprendre :
+
+- L'exclusion temporaire des communications (*mute*).
+- Le bannissement d'un utilisateur.
+- La levée d'une sanction par un membre autorisé.
+
+Les décisions de modération doivent respecter le règlement du serveur Discord et les permissions accordées au staff.
+
+Toute utilisation abusive des outils de modération par un membre du staff peut faire l'objet d'un examen par les responsables du serveur.
+
+## Article 7 — Données personnelles
+
+Pour assurer ses fonctionnalités, R6 HUB BOT peut traiter certaines informations, notamment :
+
+- Les identifiants Discord des utilisateurs concernés.
+- Les informations soumises dans les formulaires de création d'équipe.
+- Les identifiants des salons et serveurs nécessaires au fonctionnement du bot.
+- Les informations de profil, d'équipe et de tournoi provenant de R6 HUB.
+- Les informations nécessaires à l'exécution des actions de modération.
+
+Certaines données peuvent être enregistrées dans une base de données MySQL.
+
+Les finalités, les durées de conservation, les droits des utilisateurs et les modalités de contact doivent être détaillés dans une Politique de confidentialité distincte.
+
+## Article 8 — Disponibilité du service
+
+R6 HUB BOT est proposé dans le cadre d'un projet communautaire.
+
+Son fonctionnement peut être temporairement interrompu en raison :
+
+- D'une maintenance ou d'une mise à jour.
+- D'une panne technique.
+- D'une indisponibilité de Discord.
+- D'un problème de connexion à la base de données.
+- D'une modification des services utilisés.
+
+Aucune disponibilité permanente du bot n'est garantie.
+
+## Article 9 — Responsabilité
+
+L'équipe R6 HUB s'efforce de maintenir un service fiable et sécurisé.
+
+Toutefois, dans les limites prévues par la législation applicable, elle ne garantit pas l'absence totale d'erreurs, d'interruptions ou de dysfonctionnements.
+
+Les utilisateurs restent responsables des informations qu'ils communiquent et de leur comportement sur Discord.
+
+Les présentes conditions ne limitent pas les droits légaux dont les utilisateurs bénéficient.
+
+## Article 10 — Modification des conditions
+
+Les présentes Conditions Générales d'Utilisation peuvent être modifiées pour tenir compte de l'évolution du bot, de ses fonctionnalités ou des obligations applicables.
+
+La date de dernière mise à jour sera modifiée lors de toute révision.
+
+En cas de modification importante, les utilisateurs pourront être informés par une annonce sur le serveur Discord R6 HUB.
+
+## Article 11 — Suspension ou arrêt du service
+
+Les responsables de R6 HUB peuvent modifier, suspendre ou arrêter certaines fonctionnalités du bot pour des raisons techniques, de sécurité ou de gestion communautaire.
+
+L'accès d'un utilisateur peut également être restreint en cas de non-respect des présentes conditions ou du règlement du serveur.
+
+## Article 12 — Contact
+
+Pour toute question concernant R6 HUB BOT, ses conditions d'utilisation ou le traitement
